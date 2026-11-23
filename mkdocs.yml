@@ -1,0 +1,12 @@
+site_name: OpenAir KZ
+site_url: https://REPLACE_ORG.github.io/openair-kz/
+repo_url: https://github.com/REPLACE_ORG/openair-kz
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - User guide: user-guide.md
+  - Build a sensor: build-a-sensor.md
+  - API reference: api.md
+  - Architecture: architecture.md
+  - Privacy and Security: privacy-and-security.md
+  - DPG self-assessment: dpg-self-assessment.md
